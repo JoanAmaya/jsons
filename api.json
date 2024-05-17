@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Cotton T-shirt",
+        "description": "Basic cotton T-shirt, soft and comfortable, perfect for everyday wear.",
+        "category": "Clothing",
+        "price": 19.99,
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Classic style jeans with a modern twist, perfect for any occasion.",
+        "category": "Clothing",
+        "price": 29.99,
+        "stock": 75
+    },
+    {
+        "id": 3,
+        "name": "Sport Shoes",
+        "description": "Versatile and comfortable sport shoes, designed to accompany you in your daily activities.",
+        "category": "Footwear",
+        "price": 49.99,
+        "stock": 50
+    },
+    {
+        "id": 4,
+        "name": "Handbag",
+        "description": "Elegant and practical handbag, ideal for carrying your essentials in style.",
+        "category": "Accessories",
+        "price": 39.99,
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "name": "Wristwatch",
+        "description": "Modern and sophisticated wristwatch, perfect for complementing any look with style.",
+        "category": "Accessories",
+        "price": 99.99,
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "name": "Digital Camera",
+        "description": "Compact and powerful digital camera, capture your most precious moments with the best quality.",
+        "category": "Electronics",
+        "price": 199.99,
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "name": "Tablet",
+        "description": "Versatile and powerful tablet, perfect for working, studying, or enjoying entertainment on the go.",
+        "category": "Electronics",
+        "price": 299.99,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "name": "Cookbook",
+        "description": "Cookbook with a variety of delicious and easy-to-prepare recipes to enjoy with family.",
+        "category": "Books",
+        "price": 15.99,
+        "stock": 25
+    },
+    {
+        "id": 9,
+        "name": "School Backpack",
+        "description": "Sturdy and comfortable school backpack, perfect for carrying books and school supplies with ease.",
+        "category": "Accessories",
+        "price": 24.99,
+        "stock": 40
+    },
+    {
+        "id": 10,
+        "name": "Sunglasses",
+        "description": "Modern and stylish sunglasses, protect your eyes with style in any situation.",
+        "category": "Accessories",
+        "price": 29.99,
+        "stock": 35
+    }
+]
