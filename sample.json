@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "Powerful smartphone with advanced features and sleek design.",
+        "category": "Electronics",
+        "price": 699.99,
+        "stock": 50,
+        "image": "https://example.com/smartphone.jpg",
+        "comments": [
+            "High-resolution display",
+            "Fast processor for smooth performance",
+            "Dual camera system for stunning photos"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "description": "Thin and lightweight laptop with long battery life, perfect for work or entertainment.",
+        "category": "Electronics",
+        "price": 1099.99,
+        "stock": 30,
+        "image": "https://example.com/laptop.jpg",
+        "comments": [
+            "Full HD display with vibrant colors",
+            "Powerful processor for multitasking",
+            "Solid-state drive for fast boot-up times"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Designer Watch",
+        "description": "Exquisite designer watch crafted with precision and elegance.",
+        "category": "Accessories",
+        "price": 499.99,
+        "stock": 20,
+        "image": "https://example.com/watch.jpg",
+        "comments": [
+            "Swiss-made movement for accuracy",
+            "Sapphire crystal glass for scratch resistance",
+            "Stainless steel case with luxurious finish"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Fitness Tracker",
+        "description": "Advanced fitness tracker with heart rate monitor and GPS tracking.",
+        "category": "Sports & Fitness",
+        "price": 149.99,
+        "stock": 40,
+        "image": "https://example.com/fitness_tracker.jpg",
+        "comments": [
+            "Tracks steps, distance, and calories burned",
+            "Monitors sleep patterns for better rest",
+            "Waterproof design for use in any weather"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Gourmet Coffee Machine",
+        "description": "State-of-the-art coffee machine for brewing barista-quality coffee at home.",
+        "category": "Home & Kitchen",
+        "price": 299.99,
+        "stock": 15,
+        "image": "https://example.com/coffee_machine.jpg",
+        "comments": [
+            "Adjustable brew strength for customized taste",
+            "Built-in milk frother for creamy lattes",
+            "Programmable timer for wake-up coffee"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Digital Camera",
+        "description": "Professional-grade digital camera with high-resolution sensor and advanced shooting modes.",
+        "category": "Electronics",
+        "price": 899.99,
+        "stock": 25,
+        "image": "https://example.com/camera.jpg",
+        "comments": [
+            "4K video recording for stunning visuals",
+            "Interchangeable lenses for versatility",
+            "Wi-Fi connectivity for easy sharing"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "High-End Headphones",
+        "description": "Premium headphones with noise-cancellation technology and immersive sound quality.",
+        "category": "Electronics",
+        "price": 349.99,
+        "stock": 35,
+        "image": "https://example.com/headphones.jpg",
+        "comments": [
+            "Active noise cancellation for distraction-free listening",
+            "Comfortable over-ear design for extended wear",
+            "Wireless connectivity with Bluetooth"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Luxury Fountain Pen",
+        "description": "Elegant fountain pen crafted from high-quality materials, perfect for writing with style.",
+        "category": "Office Supplies",
+        "price": 199.99,
+        "stock": 10,
+        "image": "https://example.com/fountain_pen.jpg",
+        "comments": [
+            "18k gold nib for smooth writing experience",
+            "Timeless design with intricate details",
+            "Presented in a luxurious gift box"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Smart Home Thermostat",
+        "description": "Intelligent thermostat that learns your preferences and adjusts the temperature accordingly.",
+        "category": "Home Automation",
+        "price": 249.99,
+        "stock": 20,
+        "image": "https://example.com/thermostat.jpg",
+        "comments": [
+            "Energy-saving features for lower utility bills",
+            "Compatible with voice assistants like Alexa and Google Assistant",
+            "Sleek touchscreen display for easy control"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Professional Blender",
+        "description": "Commercial-grade blender with powerful motor and multiple speed settings for blending perfection.",
+        "category": "Kitchen Appliances",
+        "price": 399.99,
+        "stock": 15,
+        "image": "https://example.com/blender.jpg",
+        "comments": [
+            "Durable stainless steel blades for smooth blending",
+            "Large capacity pitcher for making batches",
+            "Variable speed control for precise blending"
+        ]
+    }
+]
