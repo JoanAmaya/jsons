@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "description": "A classic novel by F. Scott Fitzgerald about the decadence and excess of the Jazz Age.",
+        "category": "Fiction",
+        "price": 10.99,
+        "stock": 100,
+        "image": "https://example.com/great_gatsby.jpg",
+        "comments": [
+            "Beautifully written and evocative of the 1920s",
+            "Complex characters and intriguing plot",
+            "A timeless American classic"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sapiens: A Brief History of Humankind",
+        "description": "Yuval Noah Harari's groundbreaking work exploring the history of our species.",
+        "category": "Non-Fiction",
+        "price": 14.99,
+        "stock": 75,
+        "image": "https://example.com/sapiens.jpg",
+        "comments": [
+            "Insightful and thought-provoking",
+            "Covers a vast range of topics",
+            "Accessible to both academic and general readers"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "description": "George Orwell's dystopian novel about a totalitarian regime that uses surveillance and mind control.",
+        "category": "Fiction",
+        "price": 9.99,
+        "stock": 120,
+        "image": "https://example.com/1984.jpg",
+        "comments": [
+            "Chilling and relevant even today",
+            "A powerful warning against totalitarianism",
+            "Masterful storytelling"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Educated",
+        "description": "Tara Westover's memoir about growing up in a strict and abusive household in rural Idaho and eventually escaping to learn about the wider world through education.",
+        "category": "Memoir",
+        "price": 12.99,
+        "stock": 50,
+        "image": "https://example.com/educated.jpg",
+        "comments": [
+            "Inspiring and harrowing",
+            "A testament to the power of education",
+            "Beautifully written and deeply personal"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "The Power of Habit",
+        "description": "Charles Duhigg's exploration of the science behind why habits exist and how they can be changed.",
+        "category": "Self-Help",
+        "price": 11.99,
+        "stock": 60,
+        "image": "https://example.com/power_of_habit.jpg",
+        "comments": [
+            "Practical and insightful",
+            "Backed by scientific research",
+            "Useful for personal and professional growth"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "To Kill a Mockingbird",
+        "description": "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the Deep South.",
+        "category": "Fiction",
+        "price": 7.99,
+        "stock": 80,
+        "image": "https://example.com/to_kill_a_mockingbird.jpg",
+        "comments": [
+            "Heart-wrenching and beautifully written",
+            "A profound look at humanity",
+            "Timeless and impactful"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Becoming",
+        "description": "Michelle Obama's memoir detailing her life from childhood through her years as First Lady of the United States.",
+        "category": "Memoir",
+        "price": 18.99,
+        "stock": 40,
+        "image": "https://example.com/becoming.jpg",
+        "comments": [
+            "Inspirational and candid",
+            "A behind-the-scenes look at the White House",
+            "Empowering and well-written"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "The Catcher in the Rye",
+        "description": "J.D. Salinger's novel about teenage angst and alienation as experienced by the protagonist, Holden Caulfield.",
+        "category": "Fiction",
+        "price": 8.99,
+        "stock": 90,
+        "image": "https://example.com/catcher_in_the_rye.jpg",
+        "comments": [
+            "Iconic and influential",
+            "A deep dive into adolescent psyche",
+            "Timeless narrative"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Atomic Habits",
+        "description": "James Clear's guide to building good habits and breaking bad ones with practical strategies based on scientific research.",
+        "category": "Self-Help",
+        "price": 16.99,
+        "stock": 70,
+        "image": "https://example.com/atomic_habits.jpg",
+        "comments": [
+            "Actionable advice",
+            "Easy to understand and apply",
+            "Transformative and practical"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "The Silent Patient",
+        "description": "A psychological thriller by Alex Michaelides about a woman who shoots her husband and then stops speaking.",
+        "category": "Thriller",
+        "price": 13.99,
+        "stock": 55,
+        "image": "https://example.com/silent_patient.jpg",
+        "comments": [
+            "Gripping and suspenseful",
+            "Unexpected twists",
+            "Well-crafted and intriguing"
+        ]
+    }
+]
